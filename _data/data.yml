@@ -41,7 +41,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a Cloud Security consultant with over 16 years’ experience in the IT Enterprise Architecture, Design and Operation teams. Worked with Hybrid Architectures with applications distributed in Data centers & Cloud, migrated data center workloads, applications and Databases to cloud, Improved IAM posture, helped automating secure deployments of VMs, apps, containers and deploy security compliance and governance for Cloud. App modernization after the migration is another key focus area. I’m a DevSecOps advocate, always trying to have an Agile approach while promoting automation for appropriate use cases.
+      Pradeep is a seasoned Enterprise Architect and practised and lead team enterprise Architecture teams for Large Organisations with over 16 years experience in the IT Enterprise Architecture, Design, Operatios and support teams. Worked with Hybrid Architectures with applications distributed in Data centers & Cloud, Migrated data center workloads, applications and Databases to cloud, Improved IAM posture, helped automating secure deployments of VMs, apps, containers and deploy security compliance and governance for Cloud. App modernization after the migration is another key focus area. Im a DevSecOps advocate, always trying to have an Agile approach while promoting automation for appropriate use cases.
 education:
     - degree: MEng in Computer Science
       university: Dalhousie Univertisy, Halifax, Canada
@@ -52,33 +52,25 @@ education:
       time: 2001 - 2005
       details: |
 experiences:
-    - role: Cloud Security Architect
+    - role: Cloud Security Architecture Lead
       time: 2019 April - Present
       company: HOOPP, Healthcare of Ontario Pension Plan
       details: |
-          - Perform In-dept Cloud security Assessment for AWS, Azure – Architecture, Design, Configuration
-          - Implement Cloud Security Audit and remediation program - Policies, controls, workflows, automated continuous reporting
+          - Build Cloud security Program and lead a team of CLous security engineers
+          - Participate ARB to present and approve Clous security Enterprise standards
+          - Perform In-depth cloud security assessment for AWS, Azure – Architecture, Design, Configuration
+          - Implement cloud security audit and remediation program - policies, controls, workflows, automate continuous reporting
           - Prepare Cloud Security Framework based on NIST & CSA and align and existing controls
-          - Prepare Cloud Capabilities Mind Map for Azure, AWS
-          - Implement WAF, DDoS, auto-remediate Policies, Network Controls in Cloud
-          - Assist with Consolidation of Data Centers and move to Cloud Exchange (Equinix)
-          - Assess IAM architecture, assist with Implementation of RBAC, MFA
-     - role: IT Director
-      time: 2019 April - Present
-      company: Architecture as a Service (AaaS) Consulting Inc.
-      details: |
-        - Providing Technology Architecture services specialisation in the following areas
-        - Cloud Security Architecture (Assessment, documentation , reccomendations, remediation based on NIST Framework and CIS Benchmarks)
-        - Identity and Access Management (Multi factor Authentication, Singe Sign-on, PKI)
-        - Infrastucture Security (IaaSPaaS SaaS replatforming from legacy Infrastucture to PaaS and SaaS, rearchitecture)
-        - Data Security (Key Management services, Tokenization, Encryption at rest and Encryption in Transit) 
-        - App Security in cloud (Integrating security into Devops pipelines, dynamic and static code analysis)
-        - Cloud Network Architecture and security (NG Firewalls, Security Groups, Policy management)
-        - Security operations in Cloud (SIEM, Endpoint Protection, Automated auditing and response)
-    - role: Senior Enterprise Architect
+          - Prepare cloud capabilities mind map for Azure, AWS
+          - Implement WAF, DDoS, auto-remediate policies, network controls in cloud
+          - Assist with consolidation of data centers and architect cloud exchange such as Equinix, Megaport etc
+          - Assess IAM architecture, assist with implementation of RBAC, MFA, conditional access, just in time access
+    - role: Enterprise Architect Lead
       time: 2014 July - 2019 April
       company: Loblaw Companies, Toronto
       details: |
+        - Lead a team of Enterprise Architects to develop Enterprise Technology Standards, Technical blueprints, Solution blueprint Templates, Solution Alternatives, Key Design Decisions etc.
+        - Lead the Architecture review board meetings
         - Design & Develop Security and Network Architectures for Cloud Native (Greenfield) and hybrid (Brownfield) Applications and services.
         - Represent Security and Network Platform in development and implementation of overall Enterprise Cloud Security & Network Architecture.
         - Drive Security and Network Architectures for protecting PHI/PII/PCI data deployed in different types of environments onpremise and in cloud
@@ -89,93 +81,104 @@ experiences:
         - Provide Architecture leadership, mentoring, and expertise to design, build, and support teams
         - Publish Architectural Reference Patterns, Standards and Blueprints for Technology Strategy & Roadmaps within Security and Network Domain.
         - Recently Lead Projects in Loblaws - API Gateway, CASB, NAC SSL Visibility, Key/Secrets Managements Solutions, SD-WAN, Cloud Security Standards
-        
-    - role: Infrastructure solutions design Enginner
+    - role: Design & Solutions Engineer, Security, Network and Infrastucture Technology Solutions
       time: 2012 Nov - 2014 Jun
       company: TD Canada Trust, Toronto
       details: |
-        - Bridge between Business and Security and Network Teams to create overall Architecture Solutions
-        - Vendor and technology assessments
-        - Security Vulnerabilities Assessment to meet Audit and Risk Management and Requirements. Software Standards Maintenance
-        - Solution building, architecture planning, platform selection, business case analysis, technical documentation
-        - Lead the Development of End to End Infrastructure Solutions, high level and low level
-        - Provide guidance, Escalation point for Operational and support teams
-        - Assist with Escalated troubleshooting Issues
-        - Strategy for Configuration Standards Governance for Infrastructure Platforms per function
-        - Threat and Vulnerability Assessment
-        - Network Security Solutions, Hardening of OS
-
-
+      - Lead a team of offshore solution designers for Security, Network and Infrastucture solutions
+      - Bridge between Business and Security/Network Teams to create overall Architecture Solutions
+      - Assessments of Vendors and new Products and Technologies.
+      - Security Vulnerabilities Assessment to meet Audit and Risk Management and Requirements. IOS/Software Standards Maintenance
+      - Solution building, architecture planning, platform selection, business case analysis, technical documentation
+      - Lead the Development of End-to-End Infrastructure Solutions – High level and low level designs
+      - Provide guidance, Escalation point for Operations & NOC
+      - Assist with Escalated troubleshooting Issues.
+      - Strategy for Configuration Standards Governance for Infrastructure Platforms per function.
+      - Threat and Vulnerability Assessment
+      - Network Security Solutions, Hardening of OS
+      
+    - role: Lead Design Engineer Global Networks and Security
+      time: 2008 Aug - 2012 Oct
+      company: Blackberry, Waterloo
+      details: |
+        - Lead a team of Network Design Engineers
+        - Focus on Blackberry Global Network Security
+        - Worked with Vendors to evaluate the performance of new Designs and architectures, and with the support specialists, Server and Application Teams to recreate failure scenarios for Root cause Analysis
+        - Offered technical assistance for Tier-3 Incidents and support for Support Teams to identify changes required in Architecture after Major Incidents.
+        - Achievements Received the CIO Achieve Now Award for technology contribution for World IPv6 Day participation by Blackberry
+   
+   - role: Systems Engineer
+      time: 2006 Jun - 2007 Aug
+      company: Cisco Systems
+      details: |
+        - Lead overall Status Monitoring of IOS Release versions
+        - Lead a team of Regression and Automation test engineers
+        - Customer Facing Contact from BU Managing Customer IOS Release planning and recommendations based on Features deployed
+        - Played vital role in the following releases of Cisco IOS for service provider routers and switches supporting IPv6
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Build security program from scratch - Cloud Security Continous Compliance
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Using Checkpoint Dome9, Palo Alto Prisma Cloud established Cloud Compliance programs for teams to fix cloud configurations"
 
-      - title: DevStudio
+      - title: Establish Cloud Enterprise Architecture
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Assessment and documentation of Cloud Architectures with NIST and CSA Cloud Frameworks "
 
-      - title: Tempo
+      - title: Azure Bots, Cognitive services (using AI)
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Implemented Bots in Azure to help offset offhours duties of Security Operations using Azure cognitive services - AI"
+        
+      - title: Remote Work Security(BYOD, VPN, RBAC, DRM)
+        link: "#"
+        tagline: "Architected the Security around Remote work, using corporate devices, personal devices, Access restrictions on premise and remote."
 
-      - title: Atom
+      - title: Data Center Consolidation and Cloud Migration
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Helped Large Orgs on consolidating data centers upon acquisition and lead the core team in migration program to cloud"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: Certifications and Patents
     papers:
-      - title: The Art of Computer Programming
+      - title: Automatic User Profile Change Based on Meeting invites in Blackberry OS , Reviewed by CMA patent committe, 
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        authors: August 2009, ID 41797
+        cID: 41797, 2009
+      - title: AZ 500 Microsoft Azure Seucrity Technologies
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
+        authors: May 2020, ID H414-8263
+      - title: AZ 300 Microsoft Azure Architect Technologies
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: April 2019, MCID 16797729
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: cloud compliance, Checkpoint Dome9, Palo Alto Prisma cloud(Twistlock)
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: cloud config auto remediation, cloud bots, cognitive services, machine learning, Azure Bot services, AWS Lex
         level: 98%
 
-      - name: Angular
+      - name: cloud architecture, design, configuration, Azure, AWS, GCP
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: CICD, Visual Studio Code, Azure Devops, Github
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Enterprise architecture, security architecture, Network & Infrastucture architecture, TOGAF, Application architecture 
+        level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Automation, Ansible, terraform, ARM templates, Jenkins, Python, JSON
+        level: 90%
+        
+      - name: cloud vulnerability and architecture assessments
+        level: 95%
+
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    1Corinthians 13:4-5 <i class="fas fa-heart"></i>  <a href="" target="_blank" rel="nofollow">Love is patient, Love is kind </a>
