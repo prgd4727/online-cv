@@ -81,7 +81,8 @@ experiences:
         - Provide Architecture leadership, mentoring, and expertise to design, build, and support teams
         - Publish Architectural Reference Patterns, Standards and Blueprints for Technology Strategy & Roadmaps within Security and Network Domain.
         - Recently Lead Projects in Loblaws - API Gateway, CASB, NAC SSL Visibility, Key/Secrets Managements Solutions, SD-WAN, Cloud Security Standards        
-    - role: Infrastructure solutions design Engineer
+      
+      - role: Infrastructure solutions design Engineer
       time: 2012 Nov - 2014 Jun
       company: TD Canada Trust, Toronto
       details: |
@@ -97,7 +98,7 @@ experiences:
       - Threat and Vulnerability Assessment
       - Network Security Solutions, Hardening of OS
       
-    - role: Lead Design Engineer Global Networks and Security
+      - role: Lead Design Engineer Global Networks and Security
       time: 2008 Aug - 2012 Oct
       company: Blackberry, Waterloo
       details: |
