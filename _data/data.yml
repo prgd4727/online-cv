@@ -30,6 +30,9 @@ sidebar:
     languages:
       - idiom: English
         level: Native
+        
+      - idiom: je ne parle pas français
+        level: Beginner
 
     interests:
       - item: Motorcycle Riding
