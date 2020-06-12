@@ -176,6 +176,13 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+    
+      - name: Leadership, coaching architects, building relationships with business, liasing between different teams, promoting architecture frameworks, conducting ARBs
+        level: 98%
+        
+      - name: Enterprise architecture, security architecture, Network & Infrastucture architecture, TOGAF, Application & data architecture 
+        level: 98%
+        
       - name: cloud compliance, Checkpoint Dome9, Palo Alto Prisma cloud(Twistlock)
         level: 98%
 
@@ -188,8 +195,6 @@ skills:
       - name: CICD, Visual Studio Code, Azure Devops, Github
         level: 95%
 
-      - name: Enterprise architecture, security architecture, Network & Infrastucture architecture, TOGAF, Application architecture 
-        level: 95%
 
       - name: Automation, Ansible, terraform, ARM templates, Jenkins, Python, JSON
         level: 90%
