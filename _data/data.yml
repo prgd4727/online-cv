@@ -136,15 +136,15 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: Cloud Security Continous Compliance
+      - title: Build security program from scratch - Cloud Security Continous Compliance
         link: "#hook"
         tagline: "Using Checkpoint Dome9, Palo Alto Prisma Cloud established Cloud Compliance programs for teams to fix cloud configurations"
 
-      - title: Cloud Architecture Assessments
+      - title: Establish Cloud Enterprise Architecture
         link: "#"
         tagline: "Assessment and documentation of Cloud Architectures with NIST and CSA Cloud Frameworks "
-
-      - title: Azure Bots, Cognitive services (using AI)
+        
+    - title: Azure Bots, Cognitive services (using AI)
         link: "#"
         tagline: "Implemented Bots in Azure to help offset offhours duties of Security Operations using Azure cognitive services - AI"
         
