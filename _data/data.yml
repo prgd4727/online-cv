@@ -55,8 +55,8 @@ experiences:
     - role: Cloud Security Architecture Lead
       time: 2019 April - Present
       company: HOOPP, Healthcare of Ontario Pension Plan
-            details: |
-          - Build Cloud security Program and lead a team of CLous security engineers
+      details: |
+      - Build Cloud security Program and lead a team of CLous security engineers
           - Participate ARB to present and approve Clous security Enterprise standards
           - Perform In-depth cloud security assessment for AWS, Azure – Architecture, Design, Configuration
           - Implement cloud security audit and remediation program - policies, controls, workflows, automate continuous reporting
