@@ -50,7 +50,7 @@ career-profile:
                Pradeep is a seasoned Enterprise Architect who practiced and lead enterprise & solution architecture teams with over 17 years’ experience in Technology Architecture, Design, Operations and support teams using TOGAF principles in both waterfall and agile environments. Worked with Hybrid Architectures with applications and data distributed in data centers & cloud, migrated data centers, applications and databases to cloud, lead IAM solutions, automated secure deployments in cloud, deploy security compliance and governance programs for cloud and data center. App modernization after the migration is another key focus area. Pradeep is a advocate for following enterprise standards to the rest of the organization, always trying to have an Agile approach while promoting automation to the extent possible.
 education:
     - degree: MEng in Computer Science
-      university: Dalhousie Univertisy, Halifax, Canada
+      university: Dalhousie University, Halifax, Canada
       time: 2007 - 2008
       details: |
     - degree: BEng in Electronics & Communication
@@ -76,12 +76,12 @@ experiences:
       time: 2019 April - Present
       company: Architecture as a Service (AaaS) Consulting Inc.
       details: |
-        - Providing Technology Architecture services specialisation in enterprise architecture, cloud architecture and Infosec
-        - Cloud Security Architecture (Assessment, documentation , reccomendations, remediation based on NIST Framework and CIS Benchmarks)
+        - Providing Technology Architecture services specialization in enterprise architecture, cloud architecture and Infosec
+        - Cloud Security Architecture (Assessment, documentation, recommendations, remediation based on NIST Framework and CIS Benchmarks)
         - Identity and Access Management (Multi factor Authentication, Singe Sign-on, PKI)
-        - Infrastucture Security (IaaSPaaS SaaS replatforming from legacy Infrastucture to PaaS and SaaS, rearchitecture)
+        - Infrastructure Security (IaaS, PaaS SaaS replatforming from legacy Infrastructure to PaaS and SaaS, re-architecture)
         - Data Security (Key Management services, Tokenization, Encryption at rest and Encryption in Transit) 
-        - App Security in cloud (Integrating security into Devops pipelines, dynamic and static code analysis)
+        - App Security in cloud (Integrating security into DevOps pipelines, dynamic and static code analysis)
         - Cloud Network Architecture and security (NG Firewalls, Security Groups, Policy management)
         - Security operations in Cloud (SIEM, Endpoint Protection, Automated auditing and response)
     - role: Senior Enterprise Architect Lead
@@ -91,19 +91,19 @@ experiences:
         - Lead a team of Enterprise Architects to develop Enterprise Technology Standards, Technical blueprints, Solution blueprint Templates, Solution Alternatives, Key Design Decisions etc.
         - Lead the Architecture review board meetings
         - Design & develop security and network architectures for cloud-native (greenfield) and hybrid (brownfield) applications and services.
-        - Drive security and network architectures for protecting PHI/PII/PCI data deployed into different environments with varied geopraphical and technical jurisdictions
+        - Drive security and network architectures for protecting PHI/PII/PCI data deployed into different environments with varied geographical and technical jurisdictions
         - Assessing application workloads and technology landscape for cloud suitability, develop business cases and cloud adoption roadmap
         - Define landscapes for docker swarm and kubernetes clusters, design container standards and deployment techniques  
         - consult and assist a team of solution architects technical expertise of solution blueprints
-        - Publish architectural reference patterns, standards and blueprints for technology strategy & roadmaps for enteprise architecture
-        - Major projects at Loblaws - API Gateway, CASB, NAC, SSL Visibility, key/Ssecrets managements solutions, SD-WAN architecture, cloud securityassessments
+        - Publish architectural reference patterns, standards and blueprints for technology strategy & roadmaps for enterprise architecture
+        - Major projects at Loblaws - API Gateway, CASB, NAC, SSL Visibility, key/secrets managements solutions, SD-WAN architecture, cloud security assessments
 
 
     - role: Lead for Security Network and Infrastructure solutions design team
       time: 2012 Nov - 2014 Jun
       company: TD Canada Trust, Toronto
       details: |
-        - Lead a team of offshore solution designers for Security, Network and Infrastucture solutions
+        - Lead a team of offshore solution designers for Security, Network and Infrastructure solutions
         - Bridge between Business and Security and Network Teams to create overall Architecture Solutions
         - Vendor and technology assessments
         - Security Vulnerabilities Assessment to meet Audit and Risk Management and Requirements. Software Standards Maintenance
@@ -136,7 +136,7 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: Build security program from scratch ,cloud config continous compliance
+      - title: Build security program from scratch, establish and mature cloud security program
         link: "#hook"
         tagline: "Using Checkpoint Dome9, Palo Alto Prisma Cloud established Cloud Compliance programs for teams to fix cloud configurations"
 
@@ -146,9 +146,9 @@ projects:
         
       - title: Azure Bots, Cognitive services (using AI)
         link: "#"
-        tagline: "Implemented Bots in Azure to help offset offhours duties of Security Operations using Azure cognitive services - AI"
+        tagline: "Implemented Bots in Azure to help offset off hours duties of Security Operations using Azure cognitive services - AI"
         
-      - title: Remote Work Security(BYOD, VPN, RBAC, DRM)
+      - title: Remote Work Security (BYOD, VPN, RBAC, DRM)
         link: "#"
         tagline: "Architected the Security around Remote work, using corporate devices, personal devices, Access restrictions on premise and remote."
 
@@ -160,11 +160,11 @@ projects:
 publications:
     title: Certifications and Patents
     papers:
-      - title: Automatic User Profile Change Based on Meeting invites in Blackberry OS , Reviewed by CMA patent committe, 
+      - title: Automatic User Profile Change Based on Meeting invites in Blackberry OS , Reviewed by CMA patent committee, 
         link: "#"
         authors: August 2009, ID 41797
         cID: 41797, 2009
-      - title: AZ 500 Microsoft Azure Seucrity Technologies
+      - title: AZ 500 Microsoft Azure Security Technologies
         link: "#"
         authors: May 2020, ID H414-8263
       - title: AZ 300 Microsoft Azure Architect Technologies
@@ -177,13 +177,13 @@ skills:
 
     toolset:
     
-      - name: Leadership, coaching architects, building relationships with business, liasing between different teams, promoting architecture frameworks, conducting ARBs
+      - name: Leadership, coaching architects, building relationships with business, liaising between different teams, promoting architecture frameworks, conducting ARBs
         level: 98%
         
-      - name: Enterprise architecture, security architecture, Network & Infrastucture architecture, TOGAF, Application & data architecture 
+      - name: Enterprise architecture, security architecture, Network & Infrastructure architecture, TOGAF, Application & data architecture 
         level: 98%
         
-      - name: cloud compliance, Checkpoint Dome9, Palo Alto Prisma cloud(Twistlock)
+      - name: cloud compliance, Checkpoint Dome9, Palo Alto Prisma cloud (Twistlock)
         level: 98%
 
       - name: cloud config auto remediation, cloud bots, cognitive services, machine learning, Azure Bot services, AWS Lex
