@@ -44,7 +44,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Pradeep is a seasoned Enterprise Architect and practised and lead team enterprise Architecture teams for Large Organisations with over 16 years experience in the IT Enterprise Architecture, Design, Operatios and support teams. Worked with Hybrid Architectures with applications distributed in Data centers & Cloud, Migrated data center workloads, applications and Databases to cloud, Improved IAM posture, helped automating secure deployments of VMs, apps, containers and deploy security compliance and governance for Cloud. App modernization after the migration is another key focus area. Im a DevSecOps advocate, always trying to have an Agile approach while promoting automation for appropriate use cases.
+               I am a Cloud Security consultant with over 16 years’ experience in the IT Enterprise Architecture, Design and Operation teams. Worked with Hybrid Architectures with applications distributed in Data centers & Cloud, migrated data center workloads, applications and Databases to cloud, helped improve IAM posture, automate secure deployments of VMs, apps, containers and deploy security compliance and governance for Cloud. App modernization after the migration is another key focus area. I’m a DevSecOps advocate, always trying to have an Agile approach while promoting automation for appropriate use cases.
 education:
     - degree: MEng in Computer Science
       university: Dalhousie Univertisy, Halifax, Canada
@@ -54,13 +54,12 @@ education:
       university: Anna University
       time: 2001 - 2005
       details: |
+
 experiences:
-   - role: Cloud Security Architecture Lead
-     time: 2019 April - Present
-     company: HOOPP - Healthcare of Ontario Pension Plan, Toronto
-     details: |
-          - Build Cloud security Program and lead a team of CLous security engineers
-          - Participate ARB to present and approve Clous security Enterprise standards
+    - role: Cloud Security Architect
+      time: 2019 April - Present
+      company: HOOPP - Healthcare of Ontario Pension Plan, Toronto
+      details: |
           - Perform In-depth cloud security assessment for AWS, Azure – Architecture, Design, Configuration
           - Implement cloud security audit and remediation program - policies, controls, workflows, automate continuous reporting
           - Prepare Cloud Security Framework based on NIST & CSA and align and existing controls
@@ -68,7 +67,7 @@ experiences:
           - Implement WAF, DDoS, auto-remediate policies, network controls in cloud
           - Assist with consolidation of data centers and architect cloud exchange such as Equinix, Megaport etc
           - Assess IAM architecture, assist with implementation of RBAC, MFA, conditional access, just in time access
-   - role: IT Director
+    - role: IT Director
       time: 2019 April - Present
       company: Architecture as a Service (AaaS) Consulting Inc.
       details: |
@@ -80,51 +79,31 @@ experiences:
         - App Security in cloud (Integrating security into Devops pipelines, dynamic and static code analysis)
         - Cloud Network Architecture and security (NG Firewalls, Security Groups, Policy management)
         - Security operations in Cloud (SIEM, Endpoint Protection, Automated auditing and response)
-								
-															   
-				
-																						  
-																																		   
-																						  
-																														 
-																											  
-																											  
-																									
-																								   
-   - role: Enterprise Architect Lead
+    - role: Senior Enterprise Architect
       time: 2014 July - 2019 April
       company: Loblaw Companies, Toronto
       details: |
-        - Lead a team of Enterprise Architects to develop Enterprise Technology Standards, Technical blueprints, Solution blueprint Templates, Solution Alternatives, Key Design Decisions etc.
-        - Lead the Architecture review board meetings
-        - Design & Develop Security and Network Architectures for Cloud Native (Greenfield) and hybrid (Brownfield) Applications and services.
-        - Represent Security and Network Platform in development and implementation of overall Enterprise Cloud Security & Network Architecture.
-        - Drive Security and Network Architectures for protecting PHI/PII/PCI data deployed in different types of environments onpremise and in cloud
-        - Assessing Application workloads and technology landscape for Cloud Suitability, develop Business case and cloud adoption roadmap
-        - Azure & Google Cloud Hands-on experience including Automating Deployment for scaling, EXPRESSROUTE, Interconnect, VNETs, NSGs, NGFW, Security policies, RBAC, IAM, Governance, Ansible, Terraform
-        - Defined Landscapes for Docker Swarm and Kubernetes Application Container Platforms.
-        - Lead the Solution Architects on technology sections of the Blueprints.
-        - Provide Architecture leadership, mentoring, and expertise to design, build, and support teams
-        - Publish Architectural Reference Patterns, Standards and Blueprints for Technology Strategy & Roadmaps within Security and Network Domain.
-        - Recently Lead Projects in Loblaws - API Gateway, CASB, NAC SSL Visibility, Key/Secrets Managements Solutions, SD-WAN, Cloud Security Standards        
-     
-    - role: Lead for Security Network and Infrastructure solutions design team
+        - Design & develop security and network architectures for cloud-native (greenfield) and hybrid (brownfield) applications and services.
+        - Drive security and network architectures for protecting PHI/PII/PCI data deployed into different environments with varied geopraphical and technical jurisdictions
+        - Assessing application workloads and technology landscape for cloud suitability, develop business cases and cloud adoption roadmap
+        - Define landscapes for docker swarm and kubernetes clusters, design container standards and deployment techniques  
+        - consult and assist a team of solution architects technical expertise of solution blueprints
+        - Publish architectural reference patterns, standards and blueprints for technology strategy & roadmaps for enteprise architecture
+        - Major projects at Loblaws - API Gateway, CASB, NAC, SSL Visibility, key/Ssecrets managements solutions, SD-WAN architecture, cloud securityassessments
+
+
+    - role: Infrastructure solutions design Engineer
       time: 2012 Nov - 2014 Jun
       company: TD Canada Trust, Toronto
       details: |
-      - Lead a team of offshore solution designers for Security, Network and Infrastucture solutions
-      - Bridge between Business and Security/Network Teams to create overall Architecture Solutions
-      - Assessments of Vendors and new Products and Technologies.
-      - Security Vulnerabilities Assessment to meet Audit and Risk Management and Requirements. IOS/Software Standards Maintenance
-      - Solution building, architecture planning, platform selection, business case analysis, technical documentation
-      - Lead the Development of End-to-End Infrastructure Solutions – High level and low level designs
-      - Provide guidance, Escalation point for Operations & NOC
-      - Assist with Escalated troubleshooting Issues.
-      - Strategy for Configuration Standards Governance for Infrastructure Platforms per function.
-      - Threat and Vulnerability Assessment
-      - Network Security Solutions, Hardening of OS
-      
-      - role: Lead Design Engineer Global Networks and Security
+        - Bridge between Business and Security and Network Teams to create overall Architecture Solutions
+        - Vendor and technology assessments
+        - Security Vulnerabilities Assessment to meet Audit and Risk Management and Requirements. Software Standards Maintenance
+        - Solution building, architecture planning, platform selection, business case analysis, technical documentation
+        - Provide guidance, Escalation point for Operational and support teams
+        - Strategy for Configuration Standards Governance for Infrastructure Platforms per function
+        
+    - role: Lead Design Engineer Global Networks and Security
       time: 2008 Aug - 2012 Oct
       company: Blackberry, Waterloo
       details: |
@@ -133,8 +112,8 @@ experiences:
         - Worked with Vendors to evaluate the performance of new Designs and architectures, and with the support specialists, Server and Application Teams to recreate failure scenarios for Root cause Analysis
         - Offered technical assistance for Tier-3 Incidents and support for Support Teams to identify changes required in Architecture after Major Incidents.
         - Achievements Received the CIO Achieve Now Award for technology contribution for World IPv6 Day participation by Blackberry
-   
-   - role: Systems Engineer
+
+    - role: Systems Engineer
       time: 2006 Jun - 2007 Aug
       company: Cisco Systems
       details: |
@@ -142,15 +121,18 @@ experiences:
         - Lead a team of Regression and Automation test engineers
         - Customer Facing Contact from BU Managing Customer IOS Release planning and recommendations based on Features deployed
         - Played vital role in the following releases of Cisco IOS for service provider routers and switches supporting IPv6
+
+
+
 projects:
     title: Projects
     intro: >
     assignments:
-      - title: Build security program from scratch - Cloud Security Continous Compliance
+      - title: Cloud Security Continous Compliance
         link: "#hook"
         tagline: "Using Checkpoint Dome9, Palo Alto Prisma Cloud established Cloud Compliance programs for teams to fix cloud configurations"
 
-      - title: Establish Cloud Enterprise Architecture
+      - title: Cloud Architecture Assessments
         link: "#"
         tagline: "Assessment and documentation of Cloud Architectures with NIST and CSA Cloud Frameworks "
 
@@ -205,8 +187,7 @@ skills:
         level: 90%
         
       - name: cloud vulnerability and architecture assessments
-        level: 95%		
-
+        level: 95%
 
 footer: >
     1Corinthians 13:4-5 <i class="fas fa-heart"></i>  <a href="" target="_blank" rel="nofollow">Love is patient, Love is kind </a>
