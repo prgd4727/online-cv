@@ -2,7 +2,10 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
-    sidebar:
+
+
+
+sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
@@ -52,9 +55,9 @@ education:
       time: 2001 - 2005
       details: |
 experiences:
-        - role: Cloud Security Architecture Lead
+    - role: Cloud Security Architecture Lead
       time: 2019 April - Present
-      company: HOOPP, Healthcare of Ontario Pension Plan
+      company: HOOPP - Healthcare of Ontario Pension Plan, Toronto
       details: |
       - Build Cloud security Program and lead a team of CLous security engineers
           - Participate ARB to present and approve Clous security Enterprise standards
@@ -65,8 +68,30 @@ experiences:
           - Implement WAF, DDoS, auto-remediate policies, network controls in cloud
           - Assist with consolidation of data centers and architect cloud exchange such as Equinix, Megaport etc
           - Assess IAM architecture, assist with implementation of RBAC, MFA, conditional access, just in time access
- 
-         	- role: Enterprise Architect Lead
+   - role: IT Director
+      time: 2019 April - Present
+      company: Architecture as a Service (AaaS) Consulting Inc.
+      details: |
+        - Providing Technology Architecture services specialisation in the following areas
+        - Cloud Security Architecture (Assessment, documentation , reccomendations, remediation based on NIST Framework and CIS Benchmarks)
+        - Identity and Access Management (Multi factor Authentication, Singe Sign-on, PKI)
+        - Infrastucture Security (IaaSPaaS SaaS replatforming from legacy Infrastucture to PaaS and SaaS, rearchitecture)
+        - Data Security (Key Management services, Tokenization, Encryption at rest and Encryption in Transit) 
+        - App Security in cloud (Integrating security into Devops pipelines, dynamic and static code analysis)
+        - Cloud Network Architecture and security (NG Firewalls, Security Groups, Policy management)
+        - Security operations in Cloud (SIEM, Endpoint Protection, Automated auditing and response)
+								
+															   
+				
+																						  
+																																		   
+																						  
+																														 
+																											  
+																											  
+																									
+																								   
+   - role: Enterprise Architect Lead
       time: 2014 July - 2019 April
       company: Loblaw Companies, Toronto
       details: |
@@ -83,7 +108,7 @@ experiences:
         - Publish Architectural Reference Patterns, Standards and Blueprints for Technology Strategy & Roadmaps within Security and Network Domain.
         - Recently Lead Projects in Loblaws - API Gateway, CASB, NAC SSL Visibility, Key/Secrets Managements Solutions, SD-WAN, Cloud Security Standards        
      
-     - role: Lead for Security Network and Infrastructure solutions design team
+    - role: Lead for Security Network and Infrastructure solutions design team
       time: 2012 Nov - 2014 Jun
       company: TD Canada Trust, Toronto
       details: |
@@ -156,6 +181,7 @@ publications:
         link: "#"
         authors: April 2019, MCID 16797729
 
+
 skills:
     title: Skills &amp; Proficiency
 
@@ -179,7 +205,7 @@ skills:
         level: 90%
         
       - name: cloud vulnerability and architecture assessments
-        level: 95%
+        level: 95%		
 
 
 footer: >
