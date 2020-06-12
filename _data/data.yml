@@ -84,10 +84,12 @@ experiences:
         - App Security in cloud (Integrating security into Devops pipelines, dynamic and static code analysis)
         - Cloud Network Architecture and security (NG Firewalls, Security Groups, Policy management)
         - Security operations in Cloud (SIEM, Endpoint Protection, Automated auditing and response)
-    - role: Senior Enterprise Architect
+    - role: Senior Enterprise Architect Lead
       time: 2014 July - 2019 April
       company: Loblaw Companies, Toronto
       details: |
+        - Lead a team of Enterprise Architects to develop Enterprise Technology Standards, Technical blueprints, Solution blueprint Templates, Solution Alternatives, Key Design Decisions etc.
+        - Lead the Architecture review board meetings
         - Design & develop security and network architectures for cloud-native (greenfield) and hybrid (brownfield) applications and services.
         - Drive security and network architectures for protecting PHI/PII/PCI data deployed into different environments with varied geopraphical and technical jurisdictions
         - Assessing application workloads and technology landscape for cloud suitability, develop business cases and cloud adoption roadmap
