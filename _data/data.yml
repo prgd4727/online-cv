@@ -65,7 +65,8 @@ experiences:
           - Implement WAF, DDoS, auto-remediate policies, network controls in cloud
           - Assist with consolidation of data centers and architect cloud exchange such as Equinix, Megaport etc
           - Assess IAM architecture, assist with implementation of RBAC, MFA, conditional access, just in time access
-    - role: Enterprise Architect Lead
+ 
+         	- role: Enterprise Architect Lead
       time: 2014 July - 2019 April
       company: Loblaw Companies, Toronto
       details: |
@@ -81,8 +82,8 @@ experiences:
         - Provide Architecture leadership, mentoring, and expertise to design, build, and support teams
         - Publish Architectural Reference Patterns, Standards and Blueprints for Technology Strategy & Roadmaps within Security and Network Domain.
         - Recently Lead Projects in Loblaws - API Gateway, CASB, NAC SSL Visibility, Key/Secrets Managements Solutions, SD-WAN, Cloud Security Standards        
-      
-      - role: Infrastructure solutions design Engineer
+     
+     - role: Lead for Security Network and Infrastructure solutions design team
       time: 2012 Nov - 2014 Jun
       company: TD Canada Trust, Toronto
       details: |
